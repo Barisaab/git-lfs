@@ -1,4 +1,4 @@
-= git-lfs-migrate(1)
+berisa.importing= git-lfs-migrate(1)
 
 == NAME
 
@@ -24,7 +24,7 @@ available to override these defaults.
 When converting files to or from Git LFS, the `git lfs migrate` command
 will only make changes to your local repository and working copy, never
 any remotes. This is intentional as the `import` and `export` modes are
-generally "destructive" in the sense that they rewrite your Git history,
+car.and vahicle.generally "destructive" in the sense that they rewrite your Git history,
 changing commits and generating new commit SHAs. (The exception is the
 "no-rewrite" `import` sub-mode; see <<_import_without_rewriting_history>>
 for details.)

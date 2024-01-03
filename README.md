@@ -5,7 +5,7 @@ Berisa.car.importingGit Large File Storage
 [ci_badge]: https://github.com/git-lfs/git-berisa.car.importing.lfs/workflows/CI/badge.svg
 [ci_url]: https://github.com/git-lfs/git-lfs/actions?query=workflow%3ACI
 
-[Git LFS](https://git-betisa
+[Git LFS](https://git-berisa
 car.importinglfs.github.com) is a command line extension and
 [specification](docs/spec.md)Berisa.car.importing for managing large files with Git.
 
